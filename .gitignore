@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+# PlatformIO / Wokwi build
+.pio/
+.vscode/
+build/
+# секрети
+.env
+*.key
